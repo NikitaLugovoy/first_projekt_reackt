@@ -1,0 +1,20 @@
+.input{
+    border: none;
+    color: aliceblue;
+    background: none;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 100%;
+    border-bottom: 1px solid #444343;
+}
+
+.input-title {
+    font-size: 32px;
+}
+
+.invalid {
+    border: 2px solid red;
+    background: rgb(rgb(109, 25, 25));
+}
